@@ -8,19 +8,26 @@ I'm a dedicated Corporate Trainer and a Google Certified Agile Coach with a rele
 
 - **8+ Years of Total Experience:** A seasoned professional with a track record of excellence as a Developer and Corporate Trainer.
 
-## My Expertise
+## My Technical Skills
 
-- **Microservices:** Leveraging the power of microservices architecture to build scalable and resilient applications.
+- **Java Development (JDK 17) and Python3 Expertise:** Proficient in both Java and Python, staying updated with the latest developments.
 
-- **Frontend Development:** Proficient in crafting delightful user experiences with technologies like Angular and React JS.
+- **Spring Framework 6 and Spring Boot 3:** Deep expertise in Spring technologies for robust and efficient application development.
 
-- **Backend Development:** Experienced in developing robust backend systems using Spring Boot.
+- **Location:** Based in Bangalore, India, and Guwahati, India.
 
-- **DevOps:** Implementing best practices for continuous integration and continuous delivery (CI/CD) pipelines.
+- **Front-end Technologies:** Skilled in HTML5, CSS3, JavaScript, Bootstrap, Angular, and React JS for creating engaging user interfaces.
 
-- **Kubernetes:** Orchestrating containerized applications for efficient deployment and scaling.
+- **Microservices and Cloud:** Strong knowledge of Microservices architecture and cloud platforms like AWS and Azure.
 
-- **AWS:** Harnessing the full potential of Amazon Web Services for cloud computing solutions.
+- **DevOps Tools:** Proficient in DevOps tools such as Docker, Kubernetes, Git, GitLab, Jenkins, SonarQube, Ansible, and Terraform for streamlined development and deployment.
+
+- **Database Proficiency:** Experienced with MySQL, Oracle, PostgreSQL, and MongoDB.
+
+- **Agile Project Management:** Practitioner of Agile methodologies for efficient project management.
+
+- **Generative AI:** Familiarity with AI tools like ChatGPT, Github CoPilot, and Amazon CodeWhisperer for innovative solutions.
+
 
 ## What I Do
 
