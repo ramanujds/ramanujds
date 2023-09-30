@@ -30,8 +30,8 @@ My mission is to empower teams and organizations to thrive in the digital age. A
 
 I'm always excited to connect with fellow tech enthusiasts, professionals, and learners. Feel free to reach out for collaboration, discussions, or just to say hello!
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) for professional networking and updates.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ramanujdas/) for professional networking and updates.
 
-- 🐦 Follow me on [Twitter](https://twitter.com/your-twitter-handle/) for tech insights and industry news.
+- 🐦 Follow me on [Instagram](https://instagram.com/ramanuj_das_/) for tech insights and industry news.
 
 Let's embark on a journey of learning, growth, and innovation together! 🚀
